@@ -1,0 +1,19 @@
+Hardware Implementation
+
+Arduino Uno 
+PIR Sensor
+Breadboard
+Jumper Wires:
+Micro USB Cable:
+
+
+Software Requirements
+
+Arduino IDE
+
+
+References in Arduino IDE
+
+Go to Tools > Board > Arduino Uno (or your specific board).
+Go to Tools > Port and select the port to which your Arduino is connected.
+Use the Serial Monitor (Ctrl + Shift + M)
